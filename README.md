@@ -5,7 +5,8 @@ This repository contains files used to determine the spectra of the NDS-2018 and
 
 The data files are as follows.
 
-For Figure 1, difference_spectra_edit.txt lits the difference spectra of NDS-2018, DBS-2019 and one SBS feature. The units are I/F.
+For Figure 1:
+1) difference_spectra_edit.txt - lists the difference spectra of NDS-2018, DBS-2019 and SBS features. The units are I/F.
 
 For Figure 2:
 

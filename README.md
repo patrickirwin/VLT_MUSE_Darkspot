@@ -1,7 +1,7 @@
 # VLT_MUSE_Darkspot
 Repository of data files associated with VLT/MUSE Darkspot Paper
 
-This repository contains files used to determine the spectra of the NDS-2018 and DBS-2019 features on Neptunefrom observations made in 2019 with the MUSE instrument at the Very Large Telescope (VLT) in Chile and reported in Nature Astronomy.
+This repository contains files used to determine the spectra of the NDS-2018 and DBS-2019 features on Neptune from observations made in 2019 with the MUSE instrument at the Very Large Telescope (VLT) in Chile and reported in Nature Astronomy.
 
 The data files are as follows.
 
